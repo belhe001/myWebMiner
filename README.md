@@ -46,7 +46,8 @@ my.mongohost="localhost";
 my.mongodb="mydb";
 ...
 ```
-**Initialize required variables **
+**Initialize required variables**
+
 #### Create Home Page Thread 
 ```java
 (new Thread(new mytarget("http://example.com"))).start();
